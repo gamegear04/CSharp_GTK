@@ -1,2 +1,2 @@
-# Vorlage für eine GTK mit C-Sharp
+# Vorlage für eine GTK Anwendung mit C-Sharp
 
